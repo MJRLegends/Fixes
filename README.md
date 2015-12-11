@@ -29,6 +29,10 @@ Repository Contents
 
   - Modified version of Spigot designed to work along side of forge networks.
 
+**Citizens Cauldron Fix**
+
+  - Modified version of the plugin called Citizens to make it work with Forge servers.
+
 ===================================================================================
 
 Introduction
@@ -61,6 +65,11 @@ Installations
 
   - Exactly the same as a normal Spigot server, nothing is different for
     the configuration & such.
+
+**Citizens**
+
+  - Exactly the same as a normal citizens plugin, but made to work with
+    forge servers.
 
 ===================================================================================
 
@@ -114,6 +123,14 @@ source provided at the bottom of the read me.
 
 ```
 Submit your issue here: https://gitlab.prok.pw/KCauldron/KCauldron/issues
+```
+
+**Citizens**
+  - [Insert issue here]
+
+```
+Sadly this is such a old file made by the original developer of Cauldron that
+it's highly doubted to be updated with fixes.
 ```
 
 ===================================================================================
